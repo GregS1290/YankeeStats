@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import './contact';
+@import './team';
+
+$background-egg: #dad7cd;
+$font-stack: 'Courier New', Courier, monospace;
+
+* {
+  font-family: $font-stack;
+}
