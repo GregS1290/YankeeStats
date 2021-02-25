@@ -10847,6 +10847,11 @@ a.text-dark:hover, a.text-dark:focus {
   font-weight: bolder;
 }
 
+#white {
+  color: white;
+  font-weight: bolder;
+}
+
 #linegraphname {
   color: #15154b;
 }

@@ -6,8 +6,9 @@ const Navbar = () => {
     <div className='container'>
       <nav className='navbar'>
         <NavLink to='/'>Home</NavLink>
-        <NavLink to='/Players'>Players</NavLink>
-        <NavLink to='/Teamstats'>Team</NavLink>
+        <NavLink to='/players'>Players</NavLink>
+        <NavLink to='/teamstats'>Team</NavLink>
+        <NavLink to='/quotes'>Famous Quotes</NavLink>
         <NavLink to='/articles'>Articles</NavLink>
         <NavLink to='/contact'>Contact</NavLink>
       </nav>

@@ -2,12 +2,12 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <div id='jumbo' classname='jumbotron jumbotron-fluid'>
-      <div classname='container'>
-        <h1 class='display-4' id='grey'>
+    <div id='jumbo' className='jumbotron jumbotron-fluid'>
+      <div className='container'>
+        <h1 className='display-4' id='white'>
           About Me
         </h1>
-        <p id='grey'>
+        <p id='white'>
           Lorizzle ipsum help break it down check it out, shiznit adipiscing
           shizzlin dizzle. Nullam sapien velit, break yo neck, yall volutpizzle,
           suscipizzle help, gravida vizzle, dang. Pellentesque black tortizzle.
@@ -18,7 +18,7 @@ const Contact = () => {
           me please this, bizzle ac, eleifend vitae, nunc. help suscipit.
           Integer semper stuff mammasay mammasa mamma oo help.
         </p>
-        <p id='grey'>
+        <p id='white'>
           Helpizzle ipsum help break it down check it out, shiznit adipiscing
           shizzlin dizzle. Nullam sapien velit, break yo neck, yall volutpizzle,
           suscipizzle help, gravida vizzle, dang. Pellentesque black tortizzle.
