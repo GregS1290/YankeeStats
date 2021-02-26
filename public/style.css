@@ -10859,3 +10859,12 @@ a.text-dark:hover, a.text-dark:focus {
 * {
   font-family: "Courier New", Courier, monospace;
 }
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  border: black;
+}

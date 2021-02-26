@@ -16,7 +16,7 @@ const Routes = () => {
           <Route exact path='/players' component={Players} />
           <Route exact path='/teamstats' component={Team} />
           <Route exact path='/articles' component={Articles} />
-          <Route exact path='/quotes' component={Quotes} />
+          <Route exact path='/' component={Quotes} />
           <Route exact path='/contact' component={Contact} />
         </Switch>
       </div>

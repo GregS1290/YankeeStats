@@ -8,3 +8,12 @@ $font-stack: 'Courier New', Courier, monospace;
 * {
   font-family: $font-stack;
 }
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  border: black;
+}
